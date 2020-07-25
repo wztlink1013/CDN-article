@@ -1,2 +1,2 @@
 # CDN-article
-博文写作
+jsdelivr + GitHub + Picgo 搭建博客文章图床
